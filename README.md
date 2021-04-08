@@ -8,7 +8,7 @@
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 #### Backend
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Nodejs](https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Express.js)
+![Nodejs](https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=express)
 #### Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb)
 #### Others

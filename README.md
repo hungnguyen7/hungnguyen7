@@ -4,20 +4,20 @@
 ![](https://komarev.com/ghpvc/?username=hungnguyen7&color=brightgreen)
 - 🌱 I’m currently learning **Computer Science** at Can Tho University
 - 💬 Ask me about anything
-#### Frontend
+#### Frontend🤵
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-#### Backend
+#### Backend 💓
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Expressjs](https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=express)
-#### Database
+#### Database 🧠
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb)
-#### Machine Learning
+#### Machine Learning 🤖
 ![Python](https://img.shields.io/badge/-Python-silver?style=flat-square&logo=python)
 ![Scikit](https://img.shields.io/badge/-Scikit-silver?style=flat-square&logo=scikit-learn)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-silver?style=flat-square&logo=tensorflow)
-#### Others
+#### Others 🧰
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-181717?style=flat-square&logo=docker)

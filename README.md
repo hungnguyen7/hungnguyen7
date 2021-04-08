@@ -14,6 +14,7 @@
 #### Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb)
 #### Machine Learning
+![Python](https://img.shields.io/badge/-Python-silver?style=flat-square&logo=python)
 ![Scikit](https://img.shields.io/badge/-Scikit-silver?style=flat-square&logo=scikit-learn)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-silver?style=flat-square&logo=tensorflow)
 #### Others

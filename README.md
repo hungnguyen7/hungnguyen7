@@ -1,6 +1,6 @@
 ### Hello world! I'm Hung Nguyen 👋
 [![Linkedin Badge](https://img.shields.io/badge/-hungnguyen-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hungnguyen-cosc/)](https://www.linkedin.com/in/hungnguyen-cosc/)
-[![Instagram Badge](https://img.shields.io/badge/-@hungnguyen?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/hungnguyen.7/)](https://instagram.com/hungnguyen.7)
+[![Instagram Badge](https://img.shields.io/badge/-@hungnguyen.7?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/hungnguyen.7/)](https://instagram.com/hungnguyen.7)
 [![Gmail Badge](https://img.shields.io/badge/-hungnguyen.cosc-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hungnguyen.cosc@gmail.com)](mailto:hungnguyen.cosc@gmail.com)
 ![](https://komarev.com/ghpvc/?username=hungnguyen7&color=brightgreen)
 - 🌱 I’m currently learning **Computer Science** at Can Tho University

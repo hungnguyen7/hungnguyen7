@@ -4,5 +4,3 @@
 ![](https://komarev.com/ghpvc/?username=hungnguyen7&color=brightgreen)
 - 🌱 Graduated in Computer Science
 - 💬 Currently working as a Software Engineer
-
-👉🏻 [![TryHackMe](https://img.shields.io/badge/-tryhackme-red?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/darto)

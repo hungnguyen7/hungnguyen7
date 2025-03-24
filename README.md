@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-hungnguyen.cosc-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hungnguyen.cosc@gmail.com)](mailto:hungnguyen.cosc@gmail.com)
 ![](https://komarev.com/ghpvc/?username=hungnguyen7&color=brightgreen)
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=688631" style='border:none;'></iframe>
+[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=688631)](https://tryhackme.com/p/hhung,nguyenn)
 
 - 🌱 Graduated in Computer Science
 - 💬 Currently working as a Software Engineer
